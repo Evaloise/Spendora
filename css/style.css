@@ -1,0 +1,29 @@
+button{
+
+background-color: #4169e1;
+color: lab(78.42% -38.99 7.95);
+ margin: 20px;
+padding: 10px;
+border-radius: 10px;
+}
+
+h3 {
+text-align: center;
+font-size: 30px;
+background-color: cadetblue;
+color: rgb(183, 10, 13);
+line-height: 80px;
+text-shadow: 8px 4px 8px rgb(164, 164, 13);
+
+}
+
+h2{
+    text-shadow: 8px 4px 8px rgb(23, 13, 164);
+}
+
+img{
+
+    width: 300px;
+height: 300px;
+
+}
